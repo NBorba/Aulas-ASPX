@@ -1,0 +1,9 @@
+C:\Users\CTUP\Desktop\GitHub\Aulas-ASPX\IOT\IoTBLL\bin\Debug\IoTBLL.dll
+C:\Users\CTUP\Desktop\GitHub\Aulas-ASPX\IOT\IoTBLL\bin\Debug\IoTBLL.pdb
+C:\Users\CTUP\Desktop\GitHub\Aulas-ASPX\IOT\IoTBLL\bin\Debug\IotDAL.dll
+C:\Users\CTUP\Desktop\GitHub\Aulas-ASPX\IOT\IoTBLL\bin\Debug\IoTModel.dll
+C:\Users\CTUP\Desktop\GitHub\Aulas-ASPX\IOT\IoTBLL\bin\Debug\IotDAL.pdb
+C:\Users\CTUP\Desktop\GitHub\Aulas-ASPX\IOT\IoTBLL\bin\Debug\IoTModel.pdb
+C:\Users\CTUP\Desktop\GitHub\Aulas-ASPX\IOT\IoTBLL\obj\Debug\IoTBLL.csprojResolveAssemblyReference.cache
+C:\Users\CTUP\Desktop\GitHub\Aulas-ASPX\IOT\IoTBLL\obj\Debug\IoTBLL.dll
+C:\Users\CTUP\Desktop\GitHub\Aulas-ASPX\IOT\IoTBLL\obj\Debug\IoTBLL.pdb

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoTWeb", "IOT\IoTWeb.csproj", "{FF690D48-72DB-4E16-81D8-6607CF5C1DF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoTModel", "IoTModel\IoTModel.csproj", "{A2880C08-879A-4076-8FDD-C165A9D96ABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoTBLL", "IoTBLL\IoTBLL.csproj", "{D440F522-B86B-426D-A71D-319998611AF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IotDAL", "IotDAL\IotDAL.csproj", "{53BFAA77-F503-4152-BCB6-5C9585B88B8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF690D48-72DB-4E16-81D8-6607CF5C1DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF690D48-72DB-4E16-81D8-6607CF5C1DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF690D48-72DB-4E16-81D8-6607CF5C1DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF690D48-72DB-4E16-81D8-6607CF5C1DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2880C08-879A-4076-8FDD-C165A9D96ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2880C08-879A-4076-8FDD-C165A9D96ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2880C08-879A-4076-8FDD-C165A9D96ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2880C08-879A-4076-8FDD-C165A9D96ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D440F522-B86B-426D-A71D-319998611AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D440F522-B86B-426D-A71D-319998611AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D440F522-B86B-426D-A71D-319998611AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D440F522-B86B-426D-A71D-319998611AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53BFAA77-F503-4152-BCB6-5C9585B88B8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53BFAA77-F503-4152-BCB6-5C9585B88B8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53BFAA77-F503-4152-BCB6-5C9585B88B8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53BFAA77-F503-4152-BCB6-5C9585B88B8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

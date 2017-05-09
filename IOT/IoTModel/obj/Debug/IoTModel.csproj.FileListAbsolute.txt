@@ -1,0 +1,5 @@
+C:\Users\CTUP\Desktop\GitHub\Aulas-ASPX\IOT\IoTModel\bin\Debug\IoTModel.dll
+C:\Users\CTUP\Desktop\GitHub\Aulas-ASPX\IOT\IoTModel\bin\Debug\IoTModel.pdb
+C:\Users\CTUP\Desktop\GitHub\Aulas-ASPX\IOT\IoTModel\obj\Debug\IoTModel.csprojResolveAssemblyReference.cache
+C:\Users\CTUP\Desktop\GitHub\Aulas-ASPX\IOT\IoTModel\obj\Debug\IoTModel.dll
+C:\Users\CTUP\Desktop\GitHub\Aulas-ASPX\IOT\IoTModel\obj\Debug\IoTModel.pdb
